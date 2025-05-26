@@ -1,4 +1,4 @@
-#camelCase არის დიდ ასოთი str
+#camelCase რედესაც ორ სიტყვას ვაერთებთ და მეორე სიტყვა დიდი ასოთი იწყება
 #snake_case კი არის space გამოტოვება მაგრამ _ ვიყენებთ
 gameSnake = "hello world"
 Bmw = "Bayerische Motoren Werke"
